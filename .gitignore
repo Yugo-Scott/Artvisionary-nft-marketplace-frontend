@@ -45,4 +45,3 @@ cache
 backend/config.env
 backend/node_modules
 backend/public
-public/images
