@@ -61,8 +61,8 @@ export default function Home() {
       </Head>
 
       {/* <div className="bg-[#1242ef] absolute left-[-250px] top-[-210px] h-[352px] w-[652px] blur-[350px] rounded-full "></div> */}
-
-      {isWalletConnected || addr ? <Header /> : null}
+      <Header />
+      {/* {isWalletConnected || addr ? <Header /> : null} */}
 
       <div className="relative overflow-hidden bg-black">
         <section className="max-w-[1240px]  mb-10 mx-auto grid grid-cols-3 gap-2 font-body h-[930px] overflow-hidden top-7 md:gap-12 medium md:px-1 lg:grid-cols-1 sm:h-full relative">
