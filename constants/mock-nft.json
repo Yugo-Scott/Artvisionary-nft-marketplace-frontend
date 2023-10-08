@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/images/TreasureA.png",
+    "title": "探し出す/作る",
+    "description": "Easily turn your unique art into NFTs and sell to the world."
+  },
+  {
+    "id": 2,
+    "image": "/images/TreasureB.png",
+    "title": "ディスプレイする",
+    "description": "Showcase your artwork in a digital gallery. Elevate to a visually captivating stage."
+  },
+  {
+    "id": 3,
+    "image": "/images/TreasureC.png",
+    "title": "マーケット",
+    "description": "Buy your favorite pieces directly from the gallery. Ensuring artist royalties."
+  }
+]

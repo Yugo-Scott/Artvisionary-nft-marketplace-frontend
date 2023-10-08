@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "ColorfulAnimal",
+    "bgImage": "/images/colorfulcat1.jpeg",
+    "image": "/images/main1.png",
+    "price": "378.7K"
+  },
+  {
+    "id": 2,
+    "name": "PixcelArt",
+    "bgImage": "/images/pixelart1.jpeg",
+    "image": "/images/main2.png",
+    "price": "818.7K"
+  },
+  {
+    "id": 3,
+    "name": "Robot",
+    "bgImage": "/images/robot_1.jpeg",
+    "image": "/images/main3.png",
+    "price": "74.9K "
+  },
+  {
+    "id": 4,
+    "name": "Microscope",
+    "bgImage": "/images/cell_1.jpeg",
+    "image": "/images/main4.png",
+    "price": "19.3K"
+  }
+]
