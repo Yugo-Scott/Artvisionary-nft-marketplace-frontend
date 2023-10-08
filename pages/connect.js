@@ -15,11 +15,12 @@ export default function ConnectWallet() {
       setAccount(accounts[0]);
       if (accounts.length > 0) {
         await authenticate();
-        if (router.query.redirect) {
-          router.push(router.query.redirect);
-        } else {
-          router.push("/dashboard");
-        }
+        // if (router.query.redirect) {
+        //   router.push(router.query.redirect);
+        // } else {
+        //   router.push("/dashboard");
+        // }
+        router.push("/dashboard");
       }
     }
   };
