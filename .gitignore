@@ -41,7 +41,6 @@ typechain-types
 
 #Hardhat files
 cache
-artifacts
 
 backend/config.env
 backend/node_modules
